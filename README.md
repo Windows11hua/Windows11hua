@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MShh
 - 👀 I’m interested in c++.
 - 🌱 I’m currently learning the c++ programming.
-- 💞️ I’m looking to collaborate on nothing.
+- 💞️ I’m looking to collaborate on c++ learning.
 - 📫 Reach me at MShh126@outlook.com or Windows11hua@163.com.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
